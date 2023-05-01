@@ -13,7 +13,7 @@ POST          | https://api.restful-api.dev/objects
 GET           | https://api.restful-api.dev/objects/objectID
 DELETE        | https://api.restful-api.dev/objects/objectID
 
-Below are the steps you'll need to take to complete the task. You can utilise the template in the "Postman Test" folder by importing it into Postman and using the included comment suggestions. However, if you feel confident, you can implement the steps in your own way.
+Below are the steps you'll need to take to complete the task. You can utilise the template in the "postman" folder by importing it into Postman and using the included comment suggestions. However, if you feel confident, you can implement the steps in your own way.
 
 ### Step 1 - The POST request: 
 1. Create a POST request with a JSON object as the body. 
@@ -31,7 +31,7 @@ Below are the steps you'll need to take to complete the task. You can utilise th
 2. Validate that the expected 200 response code is returned 
 
 ### Step 4 - Export your work:
-1. Export the Postman Collection/Tests that you created in steps 1-3 by selecting the ellipse icon '...' and choosing the export option
+1. Export the postman/tests that you created in steps 1-3 by selecting the ellipse icon '...' and choosing the export option
 2. Save the exported collection in a folder alongside any work from Section B. 
 
 *Hint: If you are stuck with the syntax for the requests, validation, or for saving the 'id' etc., the Postman official website, the API documentation, and Stack Overflow can provide a wealth of information.* 
@@ -53,7 +53,7 @@ As a new user of the application, I want to be able to register an account with 
 ## Your Task: 
 
 ### Step 1 - Set-up:
-1. Clone this repo and change the directory to the 'UI Test' folder
+1. Clone this repo and change the directory to the 'ui' folder
 2. Run `npm i` to create the node_modules folder (you may need to [install npm](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm) for this step)
 3. Run `npx live-server` to run the webpage locally and select _'html > form.html'_ 
 
@@ -70,8 +70,11 @@ As a new user of the application, I want to be able to register an account with 
 2. The errors will be confined to _'html > form.html'_ and _'javascript > form-validation.js'_
 3. Add comments with a short description of the fix
 
-### Step 4 - Save your work:
+### Step 4 - Upload your work:
 1. Save any work you've done in a folder alongside Section A's Postman work. You will want to save: 
   - Your test cases 
   - Details of errors that you found
   - The _'form.html'_ and _'form-validation.js'_ files (if you completed the optional step)
+2. Upload your work somewhere accessible to us, ideally to Github/Gitlab, and send us the link. 
+### Optional - Send feedback:
+We really welcome any feedback! Let us know what you thought of this exercise.
