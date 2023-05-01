@@ -1,4 +1,4 @@
-# {Company Name} Technical Test
+# Moneyhub QA Technical Exercise
 
 This technical test is split into two sections, Section A and Section B. Section A aims to test your understanding of API testing using Postman, and Section B aims to test your UI testing experience using a simple registration form. 
 
