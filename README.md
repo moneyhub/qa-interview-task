@@ -57,12 +57,12 @@ As a new user of the application, I want to be able to register an account with 
 2. Run `npm i` to create the node_modules folder (you may need to [install npm](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm) for this step)
 3. Run `npx live-server` to run the webpage locally and select _'html > form.html'_ 
 
-### Step 2 - Produce test cases:
-1. Produce a set of test cases that you'd use to test the registration form and its acceptance criteria 
+### Step 2 - Write some manual test cases:
+1. Produce a set of test cases that you'd use to manually test the registration form and its acceptance criteria 
 
-*Note: There's no need to produce a set of formal test cases, just a simple draft*
+*Note: There's no need to produce a set of formal test cases or automations, just a simple draft test plan*
 
-### Step 3 - Execute the test cases:
+### Step 3 - Execute your test plan:
 1. Execute the test cases that you created in step 2 and note down any issues that you find
 
 ### Optional - Fix errors:
